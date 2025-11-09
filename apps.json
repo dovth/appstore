@@ -1,22 +1,22 @@
 [
   {
-    "name": "Bone Umbrella",
+    "name": "iPlusApp",
     "platform": "iOS",
-    "version": "1.0.0 (1)",
-    "size": "66 MB",
+    "version": "1.0.0",
+    "size": "82 MB",
     "releaseDate": "2025-11-07",
-    "description": "Ứng dụng Bone Umbrella Workspace cho iOS",
+    "description": "iOS App",
     "installLink": "#",
-    "icon": "https://cdn-icons-png.flaticon.com/512/888/888879.png"
+    "icon": "https://cdn-icons-png.flaticon.com/512/5977/5977575.png"
   },
   {
-    "name": "Google Chrome",
+    "name": "Android App",
     "platform": "Android",
-    "version": "138.0.7204.179 (1)",
-    "size": "45 MB",
+    "version": "1.0.0",
+    "size": "10 MB",
     "releaseDate": "2025-11-07",
-    "description": "Trình duyệt Chrome cho Android",
-    "installLink": "apk-file-link.apk",
-    "icon": "https://cdn-icons-png.flaticon.com/512/888/888846.png"
+    "description": "Android App",
+    "installLink": "android.apk",
+    "icon": "https://cdn-icons-png.flaticon.com/512/16076/16076057.png"
   }
 ]
