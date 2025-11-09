@@ -1,0 +1,34 @@
+<!DOCTYPE html>
+<html lang="vi">
+<head>
+  <meta charset="UTF-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+  <title>Internal App Store</title>
+  <link rel="stylesheet" href="styles.css" />
+</head>
+<body>
+  <header>
+    <h1>Internal App Store</h1>
+    <p>Tải xuống ứng dụng nội bộ cho iOS và Android</p>
+
+    <div class="controls">
+      <input type="text" id="search-input" placeholder="🔍 Tìm ứng dụng..." />
+      <button id="toggle-dark">🌙 Dark Mode</button>
+    </div>
+  </header>
+
+  <nav>
+    <button id="all-btn" class="active">Tất cả</button>
+    <button id="ios-btn">iOS</button>
+    <button id="android-btn">Android</button>
+  </nav>
+
+  <main id="app-list"></main>
+
+  <footer>
+    <p>© 2025 Internal App Store. Made with ❤️</p>
+  </footer>
+
+  <script src="script.js"></script>
+</body>
+</html>

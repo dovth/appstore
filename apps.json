@@ -1,0 +1,22 @@
+[
+  {
+    "name": "Bone Umbrella",
+    "platform": "iOS",
+    "version": "1.0.0 (1)",
+    "size": "66 MB",
+    "releaseDate": "2025-11-07",
+    "description": "Ứng dụng Bone Umbrella Workspace cho iOS",
+    "installLink": "#",
+    "icon": "https://cdn-icons-png.flaticon.com/512/888/888879.png"
+  },
+  {
+    "name": "Google Chrome",
+    "platform": "Android",
+    "version": "138.0.7204.179 (1)",
+    "size": "45 MB",
+    "releaseDate": "2025-11-07",
+    "description": "Trình duyệt Chrome cho Android",
+    "installLink": "apk-file-link.apk",
+    "icon": "https://cdn-icons-png.flaticon.com/512/888/888846.png"
+  }
+]
