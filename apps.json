@@ -16,7 +16,7 @@
     "size": "10 MB",
     "releaseDate": "2025-11-07",
     "description": "Android App",
-    "installLink": "android.apk",
+    "installLink": "https://github.com/dovth/appstore/releases/download/1.0.0/android.apk",
     "icon": "https://cdn-icons-png.flaticon.com/512/16076/16076057.png"
   }
 ]
