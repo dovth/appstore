@@ -6,7 +6,7 @@
     "size": "82 MB",
     "releaseDate": "2025-11-07",
     "description": "iOS App",
-    "installLink": "itms-services://?action=download-manifest&url=https://dovth.github.io/appstore/app.plist",
+    "installLink": "itms-services://?action=download-manifest&amp;url=https://dovth.github.io/appstore/app.plist",
     "icon": "https://cdn-icons-png.flaticon.com/512/5977/5977575.png"
   },
   {
